@@ -33,8 +33,8 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
 /* Global variables for blocking IO */
-STATIC BOOLEAN  mInitializeLock = TRUE;
-STATIC EFI_LOCK mLock;
+//STATIC BOOLEAN  mInitializeLock = TRUE;
+//STATIC EFI_LOCK mLock;
 
 EFI_TIME gTime;
 

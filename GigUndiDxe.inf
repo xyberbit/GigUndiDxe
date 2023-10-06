@@ -161,7 +161,7 @@
   MdeModulePkg/MdeModulePkg.dec
 
 [LibraryClasses.common]
-  StdLibC
+# StdLibC
   BaseLib
   MemoryAllocationLib
   UefiBootServicesTableLib
